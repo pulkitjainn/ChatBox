@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665153428119",
+    "firebase_url": "https://chatbox-3d657.firebaseio.com",
+    "project_id": "chatbox-3d657",
+    "storage_bucket": "chatbox-3d657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665153428119:android:7edd62abc06a5913",
+        "android_client_info": {
+          "package_name": "com.example.pulkit.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665153428119-t4urjt7pntft18m143ncuu7b6e775f8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3N31e_G3D6FAV4C9hpQx2cpI27tE7VVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
